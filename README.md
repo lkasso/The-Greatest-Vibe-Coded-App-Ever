@@ -1,6 +1,6 @@
 # Detecting and resolving dependency vulnerabilities in Gradle projects
 
-This is a simple project demonstrating how to use the `dependency-submission` GitHub action to detect
+This is a project demonstrating how to use the `dependency-submission` GitHub action to detect
 vulnerable dependencies in a Gradle project, and various techniques to address these vulnerabilities.
 
 You may find it useful to fork this repository, which will allow you to follow this guide, view and resolve Dependabot alerts.
