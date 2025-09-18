@@ -4,7 +4,7 @@
 [libraries]
 commons-text = { module = "org.apache.commons:commons-text", version = "1.14.0" }
 minio = { module = "io.minio:minio", version = "8.5.8" }
-junit-jupiter = { module = "org.junit.jupiter:junit-jupiter", version = "5.10.2" }
+junit-jupiter = { module = "org.junit.jupiter:junit-jupiter", version = "5.13.4" }
 
 [plugins]
 versions = { id = "com.github.ben-manes.versions", version = "0.51.0" }
